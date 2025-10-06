@@ -1,2 +1,2 @@
 # inventory.Invoicing.sys
-Inventory management and sales invoicing system
+Inventory management and sale invoicing system
